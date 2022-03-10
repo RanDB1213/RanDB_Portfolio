@@ -39,3 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Greetings!
 My name is Randolph Burns (RanDB pronounced "Randy-B"), I am a Geospatial Intelligence Analyst turned Data Analyst, Multi-role Developer, Project Manager and Entreprenuer. This portfolio is a showcase of some of my favorite projects that I have worked on over the last few years that were not only fun but solutions to problems that I had explored on my own.
 
+## Experience
+
+## Skills
+
+## Education/Certification
+
